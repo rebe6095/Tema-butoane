@@ -1,0 +1,143 @@
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.button2 {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn2 {
+  display: inline-block;
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 18px;
+  color: #fff;
+  border: none;
+  border-radius: 50px; /* forma ovala */
+  cursor: pointer;
+}
+
+.primary {
+  background-color: violet;
+}
+
+.secondary {
+  background-color: blue;
+}
+
+.success {
+  background-color: green;
+}
+
+.info {
+  background-color: lightblue;
+}
+
+.warning {
+  background-color: orange;
+}
+
+.danger {
+  background-color: red;
+}
+
+.link {
+  background-color: lightblue;
+}
+
+.dark {
+  background-color: black;
+}
+
+.light {
+  background-color: gray;
+}
+
+.white {
+  background-color: white;
+  color: #000; /* pentru a putea vedea textul alb pe butonul alb */
+}
+
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.primary2 {
+  border-color: violet;
+  color: violet;
+}
+
+.secondary2 {
+  border-color: #2196f3;
+  color: dodgerblue;
+}
+
+.succes2 {
+  border-color: green;
+  color: green;
+}
+
+.info2 {
+  border-color: lightblue;
+  color: lightblue;
+}
+
+.warning2 {
+  border-color: orange;
+  color: orange;
+}
+
+.danger2 {
+  border-color: red;
+  color: red;
+}
+
+.link2 {
+  border-color: lightblue;
+  color: lightblue;
+}
+
+.dark2 {
+  border-color: black;
+  color: black;
+}
+.dash {
+  padding: 14px 28px;
+  font-size: 16px;
+  background-color: white;
+  border: 2px dashed black;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.dash2 {
+  padding: 14px 28px;
+  font-size: 16px;
+  background-color: white;
+  border: 2px dashed black;
+  cursor: pointer;
+}
